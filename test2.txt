@@ -1,1 +1,2 @@
 test.txt  
+This is the first change which is being done by the gitKraken
