@@ -3,6 +3,7 @@
 while(True):
     a = int(input("Enter a number"))
     if a < 100:
+        print("Try again")
         continue #Loop will continue till the if statement is true
     else:
         print("Congratulation you enter number greater than 100")
