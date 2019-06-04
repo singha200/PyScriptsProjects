@@ -10,4 +10,4 @@ def number1():
             break #Loop will break
 
 number1()
-print(number1.__doc__) #Printing whatever written in the DocString of the function
+print(number1.__doc__) #Printing whatever written in the DocString for the function
