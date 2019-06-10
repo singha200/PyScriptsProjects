@@ -1,5 +1,5 @@
 def number1():
-    """Loop will continue till the number greater than 100 is entered"""  #Docstring Gives summary of the function
+    """Text saved in the docSTring - Loop will continue till the number greater than 100 is entered"""  #Docstring Gives summary of the function
     while(True):
         a = int(input("Enter a number"))
         if a < 100:
