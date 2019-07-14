@@ -1,5 +1,5 @@
 import requests
-import lxml.html
+import lxml.html #you have to explicitly import html as it is hidden package and is not imported by default with lxml
 """
 Request Library Demo to post simple Post call and receiving output in JSON
 """
