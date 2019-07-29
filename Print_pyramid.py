@@ -1,7 +1,7 @@
 
 """
 Take input from user as n 
-Take input from user as typeofpattern as str
+Take input from user as typeofpattern as string
 
 If typeofpattern is True then print 
 *
