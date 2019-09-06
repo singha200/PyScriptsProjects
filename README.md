@@ -1,7 +1,7 @@
 This is a new repo.
 
 
-<tabl
+<table>
 
 </th>
    
@@ -13,4 +13,4 @@ This is a new repo.
 </table>
 
 
-This is a test repo.
+This is a test repository.
