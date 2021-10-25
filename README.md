@@ -1,2 +1,2 @@
 # PythonPractice
-Python Practice
+Python Scripts
