@@ -1,4 +1,4 @@
-# awsboto3scripts
+# AWS Boto3 Automation Scripts
 Getting started with Installation
  - [ ] Install python
  - [ ] Install pip
