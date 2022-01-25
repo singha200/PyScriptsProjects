@@ -1,5 +1,5 @@
 #Script contains unit test for ec2 insatnce creation script a_ec2.py
-# Author: singha200
+#Author: singha200
 from unittest import mock
 from a_ec2 import Get_Image, Start_Ec2
 import boto3
