@@ -2,7 +2,7 @@
 # Author: singha200
 import boto3
 
-#To create the instance set DRY_RUN to False
+#Create the instance set DRY_RUN to False
 DRYRUN = False
  #Use aws ec2 to create a new instance
 import boto3
